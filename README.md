@@ -8,4 +8,5 @@
 - https://github.com/betterenvi/Adaboost-Muliclass
 
 ### Code
-- Please refer to [Adaboost-MultiClass.ipynb](https://github.com/betterenvi/Adaboost-Muliclass/blob/master/Adaboost-MultiClass.ipynb).
+- Please refer to [Adaboost-MultiClass.ipynb](https://github.com/betterenvi/Adaboost-Muliclass/blob/master/Adaboost-MultiClass.ipynb)
+- Or, Adaboost-MultiClass.py.
